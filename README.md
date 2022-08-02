@@ -4,7 +4,7 @@ Developed by - [Utkarsh Tiwari](https://github.com/utk09)
 
 #### Email
 
-[Email Me](mailto:utkarsh999tiwari@gmail.com)
+[Email Me](mailto:utkarsh.t0298@gmail.com)
 
 #### Twitter
 
