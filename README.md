@@ -2,10 +2,10 @@
 
 Developed by - [Utkarsh Tiwari](https://github.com/utk09)
 
-#### Email
+## Email
 
 [Email Me](mailto:utkarsh.t0298@gmail.com)
 
-#### Twitter
+### Twitter
 
 [@utk0909](https://twitter.com/utk0909)
